@@ -1,4 +1,4 @@
-baseURL = "https://oschneid.github.io/howtohaptic"
+baseURL = "/"
 languageCode = "en-us"
 title = "howtohaptic"
 theme = "book"
