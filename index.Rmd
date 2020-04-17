@@ -1,5 +1,5 @@
 --- 
-title: "howtohaptic"
+title: "Welcome to howtohaptic!"
 subtitle: "A Living Handbook of Haptic Experience Design"
 author: "Oliver Schneider"
 date: "`r Sys.Date()`"
