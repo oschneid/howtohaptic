@@ -1,2 +1,2 @@
-# Haptic senses
+# Haptic senses {#sense}
 todo

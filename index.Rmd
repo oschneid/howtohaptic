@@ -13,6 +13,4 @@ github-repo: rstudio/bookdown-demo
 description: "This is a living book, a collection of research notes about how to practice haptic experience design. It is offered without gurantee or warranty."
 ---
 
-# howtohaptic
-
 Welcome to howtohaptic! This is a collection of research notes that are compiled to help people learn, practice, and improve Haptic Experience Design.

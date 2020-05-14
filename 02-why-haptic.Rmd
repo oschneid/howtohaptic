@@ -1,2 +1,14 @@
-# Why Haptic
-todo
+# Why Haptic {#whyhaptic}
+
+- utility
+  - information content
+  - material properties
+- usability
+  - make things easier
+  - low-attention
+- experience
+  - 
+- immersion and realism
+  - Seeing is believing, feeling is trusting
+    - "doubting thomas"
+- emotion
