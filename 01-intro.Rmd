@@ -12,6 +12,7 @@ Haptic technology is any technology that engages the sense of touch.
 It could be vibrations in your smartphone or video game controller (Vibrotactile Technology, \@ref(tech-vibrotactile), or a robot arm that you push against for physiotherapy (force-feedback, \@ref(tech-forcefeedback)).
 It could be **...**
  
+Haptics has a long history, from **example** to **more recent example**.
 
 ## Why is haptic important now
 
@@ -31,7 +32,7 @@ The first half (chapters TODO) offer an both a brief introduction to the sense o
 
 1. **Introduction** tells you how to use this book
 2. **Why Haptic?** (Chapter \@ref(whyhaptic)) tells you what the value of haptics is - why is it important to know how to design for it
-3. **What is Haptic Sense?** (Chapter \@ref(sense)) gives a brief overview of the sense of touch, with links to references
+3. **What are the Haptic Senses?** (Chapter \@ref(senses)) gives a brief overview of the sense of touch, with links to references
 4. **What is Haptic Tech?** (Chapter \@ref(tech)) gives a brief overview of the wide array of haptic technologies, organized into the common groupings
 5. **How to Haptic** (Chapter \@ref(howhaptic))gives a primer on designing for haptic senses and technologies.
 6. **How to Multisensory** (Chapter \@ref(multisensory)) expands the discussion to multisensory design - how to work with vision, audio, and olfactory feedback.

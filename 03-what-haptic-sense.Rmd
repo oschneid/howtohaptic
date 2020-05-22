@@ -1,2 +1,7 @@
-# Haptic senses {#sense}
-todo
+# Haptic senses {#senses}
+
+(This chapter is based on [@Lederman2009survey].)
+
+
+
+

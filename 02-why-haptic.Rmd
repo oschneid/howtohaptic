@@ -1,14 +1,41 @@
 # Why Haptic {#whyhaptic}
 
-- utility
+(This page was originally developed from [@MacLean2017])
+
+Touch is the first sense to form, and is fundamental to how we learn about the world and interact with it.
+Without the sense of touch, <what couldn't we do>.
+
+In interaction and experience design, we can separate goals into pragmatic, or *DEF*, and hedonic, or experiential, concerns.
+Pragmatic concerns generally encompass [usefulness][https://www.nngroup.com/articles/usability-101-introduction-to-usability/], that is, both utility (\@ref(whyhaptic-utility)) and usability (\@ref(whyhaptic-usability)). 
+Hedonic concerns are generally everything else that encompoass the experience (\@ref(whyhaptic-experience)).
+
+
+## Utility {#whyhaptic-utility}
+
+The main goal of the haptic senses is to provide information to people. It is a collection of senses, after all. (And yes, it is composed of several senses - see Chapter \@ref(senses).)
+
+The sense of touch is very good at recognizing material properties 
+
+The sense 
   - information content
   - material properties
-- usability
+
+## Usability {#whyhaptic-usability}
+
   - make things easier
   - low-attention
-- experience
-  - 
-- immersion and realism
-  - Seeing is believing, feeling is trusting
+
+
+## Experience {#whyhaptic-experience)}
+
+
+## Immersion and Realism
+ 
+ - Seeing is believing, feeling is trusting
     - "doubting thomas"
-- emotion
+
+## Emotion
+Touch i
+
+
+## Links
