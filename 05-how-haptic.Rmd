@@ -1,3 +1,24 @@
 # How to design for haptics {#howhaptic}
 
 todo
+
+ ## follow a typical design process
+ - gather ideas
+ - 
+
+
+ ## differences for haptic design
+ 
+ - many many devices - so, know your device/material
+ - handle full-stack / multisensory
+ - consider narrative and framing
+ 
+ 
+ ## possible framings for design
+
+ - haptography
+ - simulation
+ - design
+ 
+ 
+
